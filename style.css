@@ -1,0 +1,374 @@
+html {
+    display: block;
+}
+
+html:focus {
+    outline: none;
+}
+
+
+body {
+    color: black;
+}
+            
+h1 {
+
+    i {
+    font-style: blue;
+}
+
+
+
+a:link, a:visited {
+    color: (internal value);
+    text-decoration: underline;
+    cursor: auto;
+}
+
+a:link:active, a:visited:active {
+    color: (internal value);
+}
+
+
+title {
+    display: none;
+}
+style.css
+
+
+head {
+    display: none;
+}
+
+dl {
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+
+abbr {
+    display: inline;
+}
+
+b {
+    font-weight: bold;
+}
+
+div {
+    display: block;
+}
+
+
+
+figcaption {
+    display: block;
+}
+
+
+aside {
+    float: right;
+    max-width: 300px;
+    background: #f1f1f1;
+    border: 1px solid gray;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+aside {
+    display: block;
+}
+
+
+data{
+    display: none;
+}
+
+
+header {
+    display: block;
+}
+	
+	
+	hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+
+
+iframe:focus {
+    outline: none;
+}
+
+iframe[seamless] {
+    display: block;
+}
+
+
+img {
+    display: inline-block;
+}
+
+
+li {
+    display:-item;
+}
+
+
+nav {
+    display: block;
+}
+
+
+ object:focus {
+    outline: none;
+}
+
+ol {
+    display: block;
+    list-style-type: decimal;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 40px;
+}
+
+
+p {
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+pre {
+    display: block;
+    font-family: monospace;
+    white-space: pre;
+    margin: 1em 0;
+}
+
+
+
+<style>
+			span {
+				color: red;
+			}
+			
+		</style>
+		
+			strong {
+    font-weight: bold;
+}
+
+
+		<style>
+			details > summary {
+				padding: 4px;
+				width: 200px;
+				background-color: #eeeeee;
+				border: none;
+				box-shadow: 1px 1px 2px #bbbbbb;
+				cursor: pointer;
+			}
+			details > p {
+				background-color: #eeeeee;
+				padding: 4px;
+				margin: 0;
+				box-shadow: 1px 1px 2px #bbbbbb;
+			}
+		</style>
+		
+		summary {
+    display: block;
+}
+
+
+abbr {
+    display: inline;
+}
+
+
+<style>
+			abbr {
+				text-decoration: underline dotted;
+				font-variant: none;
+			}
+		</style>
+		
+		
+		address {
+    display: block;
+    font-style: italic;
+}
+
+
+	article {
+    display: block;
+}
+
+
+bdo {
+    unicode-bidi: bidi-override;
+}
+
+
+blockquote {
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+		
+		
+	blockquote {
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+		
+caption {
+    display: table-caption;
+    text-align: center;
+}
+
+
+data{
+    display: none;
+}
+
+
+dd {
+    display: block;
+    margin-left: 40px;
+}
+
+
+ details {
+    display: block;
+}
+
+
+ dfn {
+    font-style: italic;
+}
+
+
+
+       
+<style>
+            * {
+                box-sizing: border-box;
+                padding: 0;
+                margin: 0;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            h3 {
+                color: cadetblue;
+                margin: 30px 10px 10px 10px;
+            }
+            div {
+                margin: 10px;
+                padding: 15px;
+                border-left: 5px solid cadetblue;
+                background: #f1f1f1;
+                box-shadow: 5px 5px 5px gray;
+            }
+        </style
+        
+  
+   embed:focus {
+    outline: none;
+}
+
+
+     fieldset {
+    display: block;
+    margin-left: 2px;
+    margin-right: 2px;
+    padding-top: 0.35em;
+    padding-bottom: 0.625em;
+    padding-left: 0.75em;
+    padding-right: 0.75em;
+    border: 2px groove (internal value);
+}
+
+
+  figcaption {
+    display: block;
+}
+
+
+figure {
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+
+footer {
+    display: block;
+}
+
+
+header {
+    display: block;
+}
+	
+	
+	
+
+    i {
+    font-style: italic;
+}
+
+
+iframe:focus {
+    outline: none;
+}
+
+iframe[seamless] {
+    display: block;
+}
+
+nav {
+    display: block;
+}
+
+
+pre {
+    display: block;
+    font-family: monospace;
+    white-space: pre;
+    margin: 1em 0;
+}
+
+section {
+    display: block;
+}
+
+
+	strong {
+    font-weight: bold;
+}
+
+style {
+    display: none;
+}
+
+
+
